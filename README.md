@@ -1,14 +1,15 @@
 # BottomNavigatinBar
-<p>
-After many attempts of implementing BottomNavigationBar,founded perfectly working Android Library
-</p>
-########################################################################################################################################
-To implement BottomNavigationBar add this dependencies to app level build.gradle
 
-dependencies {
+<dl>
+    <dt>After many attempts of implementing BottomNavigationBar,founded perfectly working Android Library</dt>
+
+######################################################################################################################################
+<dt>To implement BottomNavigationBar add this dependencies to app level build.gradle</dt>
+
+<dt>dependencies {
     implementation 'com.github.ittianyu:BottomNavigationViewEx:2.0.4'
     implementation "com.android.support:design:28.0.0"
-}
+}</dt>
 ########################################################################################################################################
 Add this dependencies to project level build.gradle
 
@@ -21,7 +22,7 @@ Add this dependencies to project level build.gradle
 }
 ########################################################################################################################################
 Add this xml to main.xml file
-
+</dl>
 <com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
         android:id="@+id/bottom_bar"
         android:layout_width="match_parent"
