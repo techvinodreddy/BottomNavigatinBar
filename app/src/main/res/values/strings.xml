@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigatinBar</string>
+    <string name="home_title">Home</string>
+    <string name="messages_title">Message</string>
+    <string name="notifications_title">Notification</string>
+    <string name="moments_title">Search</string>
+</resources>

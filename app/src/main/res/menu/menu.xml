@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_home"
+        android:checked="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_title"/>
+    <item
+        android:id="@+id/id_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/moments_title"/>
+    <item
+        android:id="@+id/id_notifications"
+        android:icon="@drawable/ic_notifications"
+        android:title="@string/notifications_title"/>
+    <item
+        android:id="@+id/id_messages"
+        android:icon="@drawable/ic_message"
+        android:title="@string/messages_title"/>
+</menu>
